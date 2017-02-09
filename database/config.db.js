@@ -6,7 +6,7 @@ var config = {
     host: 'localhost',
     port: 3306,
     user: 'root',
-    password: '5566521okOK',
+    password: 'zzl81cn',
     database: 'tms',
 };
 

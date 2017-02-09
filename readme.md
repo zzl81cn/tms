@@ -1,3 +1,9 @@
+## install
+>npm i
+建库tms或其他名称，但要在database/config.db.js里面配置相应的信息，执行resource的sql脚本导入数据库表。
+npm start
+访问http://localhost:3000
+
 ## 写在前面
 花几天时间做了个小东西，不得不提，麻雀虽小，但五脏俱全，充分体现出一个全栈工程师在小项目上高效的产出能力 (^-^)。简单介绍下：
 
